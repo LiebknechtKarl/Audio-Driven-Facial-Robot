@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Audio-Driven-Facial-Robot
-深圳演示 语音动作 同步机器人场景  改进版本
-=======
-
-```shell
 .
 ├── play_control.py
 ├── arkitsend_v2_2.py               # 测试文件
@@ -19,5 +13,3 @@
 └── voice                           # 保存的语音
     ├── alert.wav
     └── static_valley_of_fear.wav
-```
->>>>>>> b6a6f3b (250523)

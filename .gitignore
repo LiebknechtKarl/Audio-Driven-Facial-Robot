@@ -1,0 +1,5 @@
+model/__pycache__/
+servo/v2/__pycache__/
+utils/__pycache__/
+material/csv/*
+!material/csv/droid.csv

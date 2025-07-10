@@ -42,8 +42,8 @@ if __name__ == '__main__':
     headCtrl = HeadCtrl(port_head)    # 921600
     mouthCtrl = MouthCtrl(port_mouth) # 921600
 
-    csv_path = MASTER_DIC + '/material/csv/art.csv'
-    wav_path = MASTER_DIC + '/material/voice/art.wav'
+    csv_path = MASTER_DIC + '/material/csv/droid.csv'
+    wav_path = MASTER_DIC + '/material/voice/droid.wav'
 
     (duration_s, FrameNumber) = get_wav_csv_config(wav_path, csv_path)
     print(duration_s, FrameNumber)
